@@ -19,6 +19,10 @@
 # 開発環境
 - Visual Studio 2017
 
+# 使用ライブラリ
+- DXライブラリ 2017
+
+
 # 使用素材
 - いらすとや
   https://www.irasutoya.com/
