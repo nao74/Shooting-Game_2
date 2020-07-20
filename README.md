@@ -17,7 +17,7 @@
 - C++
 
 # 開発環境
--Visual Studio
+- Visual Studio 2017
 
 # 使用素材
 - いらすとや
